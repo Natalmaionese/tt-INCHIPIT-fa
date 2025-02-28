@@ -1,6 +1,5 @@
 //  Module: fa
-//
-
+// che bell imparare SystemVerilog 
 module fa_module
     (
         input logic A,
